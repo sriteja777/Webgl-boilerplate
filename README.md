@@ -1,1 +1,1 @@
- Webgl-boilerplate for Graphics Spring 2019
+ Webgl-boilerplate for making games with webgl
